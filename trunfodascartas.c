@@ -17,6 +17,10 @@ int main() {
     printf("pib: %.f mil de reais\n", pib);
     printf("estado: %c ceara\n", estado);
     printf("nomedacidade: %c fortaleza\n", nomedacidade);
+    printf("\n");
+    
+
+    printf("novo comit\n");
 
 
     return 0;
